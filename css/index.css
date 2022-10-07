@@ -57,7 +57,7 @@ nav ul li a:hover{
 }
 
 .page{
-background-image:linear-gradient(rgba(20, 0, 30, 0.6),rgba(20, 0, 30, 0.6)),  url('./images/image18.jpg');
+background-image:linear-gradient(rgba(20, 0, 30, 0.6),rgba(20, 0, 30, 0.6)),  url('../images/image18.jpg');
 	width: 100%;
 
 	min-width: 50%;
